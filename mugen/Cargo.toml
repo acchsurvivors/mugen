@@ -1,0 +1,24 @@
+[package]
+name = "mugen"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+jni = "0.21.1" 
+walkdir = "2.3.2"
+regex = "1.10.6"
+sha2 = "0.10"
+hex = "0.4"
+aes = "0.8"
+aes-gcm = "0.10"
+rand = "0.8"
+aes-gcm-siv = "0.11"
+ctr = "0.9"
+zip = "2.2"
+webpki = "0.22.0"
+ring = "0.17.8"
+include_dir = "0.7"
+smartcore = "0.3.2"
