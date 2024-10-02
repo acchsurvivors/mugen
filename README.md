@@ -176,4 +176,4 @@ Map<Mugen.SecurityCheck, Boolean> results = mugen.initialize(this, expectedHash,
 
 ## License
 
-This project is protected under the following [LICENSE](https://github.com/acchsurvivors/mugen/LICENSE).
+This project is protected under the following [LICENSE](https://github.com/acchsurvivors/mugen/blob/main/LICENSE).
